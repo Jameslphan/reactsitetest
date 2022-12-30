@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.d1f8e3c2.css",
-    "main.js": "/react-portfolio/static/js/main.058cdba4.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Japan.png": "/react-portfolio/static/media/Japan.3e405f986b29aad239bb.png",
-    "static/media/Seahawksguysnight.jpeg": "/react-portfolio/static/media/Seahawksguysnight.b08728d1744cae938ff1.jpeg",
-    "static/media/Helvetica-neu.ttf": "/react-portfolio/static/media/Helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/react-portfolio/index.html",
-    "main.d1f8e3c2.css.map": "/react-portfolio/static/css/main.d1f8e3c2.css.map",
-    "main.058cdba4.js.map": "/react-portfolio/static/js/main.058cdba4.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio-deploy/static/css/main.70b66ee5.css",
+    "main.js": "/react-portfolio-deploy/static/js/main.e5965810.js",
+    "static/js/787.ea53adbf.chunk.js": "/react-portfolio-deploy/static/js/787.ea53adbf.chunk.js",
+    "static/media/Japan.png": "/react-portfolio-deploy/static/media/Japan.3e405f986b29aad239bb.png",
+    "static/media/Seahawksguysnight.jpeg": "/react-portfolio-deploy/static/media/Seahawksguysnight.b08728d1744cae938ff1.jpeg",
+    "static/media/Helvetica-neu.ttf": "/react-portfolio-deploy/static/media/Helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio-deploy/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio-deploy/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio-deploy/index.html",
+    "main.70b66ee5.css.map": "/react-portfolio-deploy/static/css/main.70b66ee5.css.map",
+    "main.e5965810.js.map": "/react-portfolio-deploy/static/js/main.e5965810.js.map",
+    "787.ea53adbf.chunk.js.map": "/react-portfolio-deploy/static/js/787.ea53adbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1f8e3c2.css",
-    "static/js/main.058cdba4.js"
+    "static/css/main.70b66ee5.css",
+    "static/js/main.e5965810.js"
   ]
 }
