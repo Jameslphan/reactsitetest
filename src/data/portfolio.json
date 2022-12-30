@@ -1,7 +1,7 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/breaktime/Break.jpg",
+            "cover": "../portfolio/breaktime/Break.jpg",
             "title": "Break Moderator",
             "description": "Break-time with superheroes, antiheroes, to supervillians!",
             "url": "https://yxx-dev.github.io/Fun-break-fortifier-official/"
