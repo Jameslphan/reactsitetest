@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactsitetest/static/css/main.6bcb1e8b.css",
-    "main.js": "/reactsitetest/static/js/main.70406a20.js",
+    "main.js": "/reactsitetest/static/js/main.7ba2e69d.js",
     "static/js/787.ad075a04.chunk.js": "/reactsitetest/static/js/787.ad075a04.chunk.js",
     "static/media/Japan.png": "/reactsitetest/static/media/Japan.3e405f986b29aad239bb.png",
     "static/media/Seahawksguysnight.jpeg": "/reactsitetest/static/media/Seahawksguysnight.b08728d1744cae938ff1.jpeg",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/reactsitetest/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/reactsitetest/index.html",
     "main.6bcb1e8b.css.map": "/reactsitetest/static/css/main.6bcb1e8b.css.map",
-    "main.70406a20.js.map": "/reactsitetest/static/js/main.70406a20.js.map",
+    "main.7ba2e69d.js.map": "/reactsitetest/static/js/main.7ba2e69d.js.map",
     "787.ad075a04.chunk.js.map": "/reactsitetest/static/js/787.ad075a04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bcb1e8b.css",
-    "static/js/main.70406a20.js"
+    "static/js/main.7ba2e69d.js"
   ]
 }
